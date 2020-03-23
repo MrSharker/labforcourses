@@ -1,0 +1,7 @@
+C:\Users\Михаил\source\repos\NotebookApp\NotebookApp\bin\Debug\NotebookApp.exe.config
+C:\Users\Михаил\source\repos\NotebookApp\NotebookApp\bin\Debug\NotebookApp.exe
+C:\Users\Михаил\source\repos\NotebookApp\NotebookApp\bin\Debug\NotebookApp.pdb
+C:\Users\Михаил\source\repos\NotebookApp\NotebookApp\obj\Debug\NotebookApp.csprojAssemblyReference.cache
+C:\Users\Михаил\source\repos\NotebookApp\NotebookApp\obj\Debug\NotebookApp.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\NotebookApp\NotebookApp\obj\Debug\NotebookApp.exe
+C:\Users\Михаил\source\repos\NotebookApp\NotebookApp\obj\Debug\NotebookApp.pdb
